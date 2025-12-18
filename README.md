@@ -30,7 +30,7 @@ Always seeking to improve and learn, I love turning ideas into real-world, user-
 </ul>
 
 <p align="center">
-  🌐 <a href="https://www.fescore.com" target="_blank"><b>Visit my portfolio → fescore.com</b></a>
+  🌐 <a href="https://edinsonsandoval.vercel.app/" target="_blank"><b>Visit my portfolio</b></a>
 </p>
 
 ---
