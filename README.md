@@ -42,13 +42,13 @@ Always seeking to improve and learn, I love turning ideas into real-world, user-
 <p align="center">
   <a href="mailto:sandovaledinson20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/edinson-jeanpierre-sandoval-escobar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.fescore.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://discord.gg/tu-invitacion" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://x.com/tu_usuario" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" /></a>
-  <a href="https://www.instagram.com/tu_usuario" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://www.facebook.com/tu_usuario" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@tu_usuario" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
-  <a href="https://www.figma.com/@tu_usuario" target="_blank"><img src="https://img.shields.io/badge/Figma-1ABCFE?style=for-the-badge&logo=Figma&logoColor=white" /></a>
+  <a href="https://edinsonsandoval.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://discord.gg/x3t48FwF" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <!-- <a href="https://x.com/tu_usuario" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" /></a> -->
+  <!-- <a href="https://www.instagram.com/tu_usuario" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/tu_usuario" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" /></a> -->
+  <a href="https://www.youtube.com/@fescore-ejs" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+  <!-- <a href="https://www.figma.com/@tu_usuario" target="_blank"><img src="https://img.shields.io/badge/Figma-1ABCFE?style=for-the-badge&logo=Figma&logoColor=white" /></a> -->
 </p>
 
 ---
@@ -59,7 +59,7 @@ Always seeking to improve and learn, I love turning ideas into real-world, user-
 <p align="center">A wide range of technologies I use for building powerful and scalable applications.</p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,react,angular,vue,astro,nuxtjs,nodejs,nestjs,express,laravel,php,typescript,javascript,html,css,tailwind,bootstrap,java,spring,python,fastapi,go,mysql,postgresql,mongodb,firebase,supabase,sqlite,docker,kubernetes,nginx,git,github,gitlab,vscode,postman,figma,xd,linux,aws,gcp,azure,cloudflare,heroku,notion,obsidian" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,react,angular,nodejs,nestjs,laravel,php,typescript,javascript,html,css,tailwind,bootstrap,java,spring,python,mysql,firebase,supabase,sqlite,docker,git,github,vscode,postman,figma,linux,gcp,notion" alt="Tech Stack" />
 </div>
 
 ---
